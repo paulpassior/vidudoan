@@ -1,0 +1,21 @@
+﻿Download và cài đặt git tại: https://git-scm.com/download/win
+
+Study github:		
+	Các bước commit file lên github	
+	- git status : check tình trạng file commit hay chưa (Lệnh này nên đc chạy trước lệnh git add để biết được mình đã
+thay đổi những gì trên branch)
+	- git add: + . (add all file)/ + file name	
+	- git commit -m "Giải thích nội dung commit vào đây nhá"	
+	- git push	
+git status : check tình trạng file commit hay chưa (Lệnh này nên đc chạy trước lệnh git add để biết được mình đã
+thay đổi những gì trên branch)		
+		
+		
+Trước khi commit chạy lệnh: git pull		
++ Nếu bị conflict thì kiểm tra lại bằng visual code và sửa lại đoạn đấy. Sau đó commit lại.		
+		
+=> để tránh conflict thì trước khi code cần phải:		
+	1  pull về	
+	2 ko làm chung file	
+- Code trên 1 branch để dễ xử lí nếu bị conflict	
+	
