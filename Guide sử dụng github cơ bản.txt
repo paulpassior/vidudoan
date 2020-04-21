@@ -1,0 +1,15 @@
+﻿Study github:		
+	Các bước commit file lên github	
+	git add: + . (add all file)/ + file name	
+	git commit	
+	git push	
+git status : check tình trạng file commit hay chua		
+		
+		
+Trước khi commit chạy lệnh: git pull		
++ Nếu bị conflict thì kiểm tra lại bằng visual code và sửa lại đoạn đấy. Sau đó commit lại.		
+		
+=> để tránh conflict thì trước khi code cần phải:		
+	1  pull về	
+	2 ko làm chung file	
+- Code trên 1 branch để dễ xử lí nếu bị conflict		
