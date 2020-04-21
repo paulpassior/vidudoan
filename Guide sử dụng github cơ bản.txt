@@ -1,4 +1,6 @@
-﻿Study github:		
+﻿Download và cài đặt git tại: https://git-scm.com/download/win
+
+Study github:		
 	Các bước commit file lên github	
 	git add: + . (add all file)/ + file name	
 	git commit	
@@ -12,4 +14,5 @@ Trước khi commit chạy lệnh: git pull
 => để tránh conflict thì trước khi code cần phải:		
 	1  pull về	
 	2 ko làm chung file	
-- Code trên 1 branch để dễ xử lí nếu bị conflict		
+- Code trên 1 branch để dễ xử lí nếu bị conflict	
+	
