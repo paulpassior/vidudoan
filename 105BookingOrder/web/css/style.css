@@ -1,6 +1,17 @@
 *{
     font-family: 'Roboto', sans-serif;
 }
+#id_page{
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 695px;
+    background: #FFFFFF;
+    opacity: 1;
+    margin-left: auto;
+    margin-right: auto;
+    height: 949px;
+}
 #left_side{
     top: 0px;
     /*left: 0px;*/
@@ -26,9 +37,9 @@
     box-shadow: 0px 4px 16px #00000029;
     border-radius: 15px;
     opacity: 1;
+    padding: 24px 124px;
 }
 .label_2{
-    top: 52px;
     margin-top: 52px;
     width: 320px;
     height: 37px;
@@ -52,17 +63,18 @@
 #order_num{
     font-size: 80px;
     font-weight: bold;
-    margin: 123px;
 }
 #middle_side{
     top: 0px;
-    /*left: 179px;*/
+    padding-right: 60px;
+    padding-left: 60px;
     width: 502px;
     height: 695px;
     background: #FAFCFB 0% 0% no-repeat padding-box;
     box-shadow: 0px 0px 16px #00000029;
     border-radius: 15px;
     opacity: 1;
+    height: 625px;
 }
 #id_map{
     top: 83px;
@@ -146,6 +158,13 @@
     padding: 10px;
     color: #FFFFFF;
     text-align: left;
+    overflow-y: scroll;
+}
+#announce_area_2::-webkit-scrollbar, #announce_box::-webkit-scrollbar {
+    display: none;
+}
+#announce_box{
+    overflow-y: scroll;
 }
 .app_booking{
     right: 0px;
@@ -185,4 +204,7 @@
 }
 .app_facebook label{
     color: #1977F3;
+}
+#beneath_part{
+    margin-top: 32px;
 }
