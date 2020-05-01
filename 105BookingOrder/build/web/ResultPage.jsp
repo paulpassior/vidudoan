@@ -19,6 +19,7 @@
     </head>
     <body>
         <div id="id_page">
+            
             <div id="left_side"  class="col-lg-2">
                 <img id="logo" src="image/logo.png" />
             </div>
@@ -66,7 +67,7 @@
                     <img src="image/zoomout.png"/>
                 </div>
             </div>
-            <!--            <div id="api_booking">
+<!--                        <div id="api_booking">
                             <div class="app_booking app_zalo">
                                 <img src="image/zalo-1.jpg"/><label>Zalo</label>
                             </div>
