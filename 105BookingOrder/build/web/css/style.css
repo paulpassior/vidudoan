@@ -130,8 +130,8 @@
     box-shadow: 0px 3px 6px #00000040;
     opacity: 1;
     position: fixed;
-    top: 498px;
-    left: 84%;
+    top: 504px;
+    margin-left: 390px;
 }
 #zoom_out img{
     width: 36px;
@@ -147,7 +147,7 @@
     margin: 3px 35px 3px 3px;
     position: fixed;
     top: 498px;
-    left: 89%;
+    margin-left: 453px;
 }
 #zoom_in img{
     width: 36px;
